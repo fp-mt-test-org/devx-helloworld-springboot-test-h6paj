@@ -1,0 +1,6 @@
+config:
+  host: devx-helloworld-springboot-test-h6paj.nonp-dev-4.use1.eng-nonprod.flexport.internal
+  namespace: devx-helloworld-springboot-test-h6paj-dev
+  image:
+    name: artifactory.flexport.io/devx-helloworld-springboot-test-h6paj-docker-dev-local/devx-helloworld-springboot-test-h6paj
+    tag: 0.0.1-SNAPSHOT
